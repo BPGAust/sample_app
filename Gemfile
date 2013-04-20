@@ -55,3 +55,9 @@ group :production do
 end
 # To use debugger
 # gem 'debugger'
+
+gem 'faker', '1.0.1'
+
+#pagination
+gem 'will_paginate', '3.0.0'
+gem 'bootstrap-will_paginate', '0.0.6'
